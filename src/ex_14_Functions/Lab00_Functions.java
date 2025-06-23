@@ -1,3 +1,5 @@
+package ex_14_Functions;
+
 public class Lab00_Functions {
     public static void main(String[] args) {
         //  Built In Functions

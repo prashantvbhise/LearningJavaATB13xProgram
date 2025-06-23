@@ -1,4 +1,4 @@
-package ex_13_Test;
+package ex_14_Functions;
 
 import java.util.Scanner;
 
