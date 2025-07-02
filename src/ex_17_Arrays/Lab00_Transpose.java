@@ -13,7 +13,5 @@ public class Lab00_Transpose {
             }
             System.out.println();
         }
-
-
     }
 }
